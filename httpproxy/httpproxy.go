@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/wynemo/kiss-proxy/util"
+	"github.com/luckypoem/kiss-proxy/util"
 )
 
 func main() {
