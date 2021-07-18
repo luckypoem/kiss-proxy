@@ -15,7 +15,7 @@ import (
 
 func main() {
 	argsWithProg := os.Args
-	var addr = "0.0.0.0:8118"
+	var addr = "127.0.0.1:7118"
 	if len(argsWithProg) > 1 {
 		addr = argsWithProg[1]
 	}
