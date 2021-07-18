@@ -1,3 +1,3 @@
-module github.com/wynemo/kiss-proxy
+module github.com/luckypoem/kiss-proxy
 
 go 1.13
